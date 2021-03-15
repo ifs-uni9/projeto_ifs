@@ -1,5 +1,5 @@
 # 📚 Projeto do Primeiro Semestre de 2021
 
-## 📁 Estrutura de pastas
+📁 Estrutura de pastas
 
-- `docs`: documentações do projeto. 
+- `docs`: documentações do projeto.
