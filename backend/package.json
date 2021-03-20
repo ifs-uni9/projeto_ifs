@@ -4,5 +4,9 @@
   "license": "PROPRIETARY",
   "devDependencies": {
     "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "typeorm": "^0.2.31"
   }
 }
